@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukulManni
 - 👀 I’m interested in anything interesting
-- 🌱 I’m currently learning c++ and algorithms
-- 💞️ I’m looking to collaborate on any project in C/C++
+- 🌱 I’m currently learning algorithms and golang
+- 💞️ I’m looking to collaborate on any project on web development
 - 📫 You can reach me at mukulmanni1@gmail.com
 
 <!---
